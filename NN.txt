@@ -1,9 +1,0 @@
-neural network
-neuron- thing that holds a no
-/ function that contains outputs of all the neurons in the previous layer and spits out a number between zero
-network - that connetcs each neuron
-* the number that neuron holds is called Activation 
-* last layer - o/p
-* hidden layer = middle layers 
-* activation of 1 layer determines activation another layer
-* higher the activation higher the chance of becoming the o/p
