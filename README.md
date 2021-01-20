@@ -1,0 +1,11 @@
+# decision-Tree
+DECISION TREE
+- It is a non-linear functions which can be used for both classification and Regression which consists of decision node and leaf nodes.
+- We prefer decision trees with low depth and small no of nodes.
+	1. In our problem(iris-dataset) we have used decision tree classification for classifying the species ie..
+	Iris-setosa,Iris-versicolor and Iris-virginica.
+	2. selected all the features except sepal width as it's less correlated to out target feature(species).
+	3. divided the data and created a Decision tree model.
+	4. criterion - attribute selection measure.
+		- this model uses Entropy for information gain.
+	5. finally we got a accuracy of 0.98 (approx)
